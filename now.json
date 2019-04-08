@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "name": "devnagari-scrapper",
+  "builds": [{ "src": "index.py", "use": "@now/python" }]
+}
